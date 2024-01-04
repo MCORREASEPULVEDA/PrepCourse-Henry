@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo dos del PrepCourse de Henry
+
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde hitgub a mi computadora
